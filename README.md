@@ -1,2 +1,2 @@
 # final-project
-full documantation in Machine Learning Documantation.docx file.
+full documantation in Machine Learning.docx file.
